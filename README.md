@@ -127,10 +127,6 @@ Signed - Academic Director
      <td valign="top"><strong>Position</strong></td>
      <td> Director and CEO </td>
     </tr>
-    <tr>
-      <td valign="top"><strong>Email</strong></td>
-      <td> george@developersinstitute.ac.nz</td>
-    </tr>
     
   <table style="width: 100%;">
     <thead> Key Academic Contact </thead>
