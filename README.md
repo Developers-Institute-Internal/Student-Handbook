@@ -316,7 +316,9 @@ This is extra student loan money that is available to assist with living costs d
 
 ### Course Related Costs
 You can claim course-related costs from StudyLink at any stage during your study if you're studying full-time.
-Important information - Course-related costs are part of a Student Loan so you'll need to pay them back. If you're eligible, you can get a maximum of $1,000 every 52 weeks, it doesn't matter how many courses you're studying during this time.
+
+**Important information** - Course-related costs are part of a Student Loan so you'll need to pay them back. If you're eligible, you can get a maximum of $1,000 every 52 weeks, it doesn't matter how many courses you're studying during this time.
+
 Developers Institute supplies students with access to computers and software subscriptions which are included within the course fees.  There are no requirements for students to provide their own technology equipment unless they wish to do so.  Please see the Academic Director if you are planning to Bring Your Own Technology (BYOT).
 
 ## Student Feedback and Evaluation
