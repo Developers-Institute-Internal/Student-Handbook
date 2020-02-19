@@ -116,57 +116,26 @@ Signed - Academic Director
 
 ## Body Corporate and Contact Details.
 
-<table>
-  <thead> Organisational Contact </thead>
-  <tbody>
-    <tr>
-      <td valign="top"><strong>Name</strong></td>
-      <td> Mr George Norris</td>
-    </tr>
-   <tr>
-     <td valign="top"><strong>Position</strong></td>
-     <td> Director and CEO </td>
-    </tr>
-    
-  <table style="width: 100%;">
-    <thead> Key Academic Contact </thead>
-    <tbody>
-    <tr>
-      <td valign="top"><strong>Name</strong></td>
-      <td> Ms Ruth Green-Cole</td>
-    </tr>
-    <tr>
-     <td valign="top"><strong>Position</strong></td>
-     <td> Director and Academic Director </td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Email</strong></td>
-      <td> ruth@developersinstitute.ac.nz</td>
-    </tr>
-    
- <table style="width: 100%;">
-  <thead> Campus Address </thead>
-  <tbody>
-   <tr>
-     <td valign="top"><strong>Address</strong></td>
-     <td> c/- The Orchard Business and Event Hub
-       <br>
-          85 Cameron St
-     </td>
-   </tr>
-   <tr>
-     <td valign="top"><strong>City</strong></td>
-     <td> Whangārei </td>
-     <td> 0110 </td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Country</strong></td>
-      <td> New Zealand</td>
-    </tr>
-    <td valign="top"><strong>Phone</strong></td>
-    <td> (09) 430 0556</td>
-    </table>
-    
+
+ Organisational Contact
+ | Name | Mr George Norris |
+ | ---- | ---- |
+ | Position | Director and CEO |
+ 
+ Key Academic Contact
+ | Name | Ms Ruth Green-Cole |
+ | ---- | ---- |
+ | Position | Director and Academic Director |
+ | Email | ruth@developersinstitute.ac.nz |
+ 
+ Campus Address 
+ | Address | c/- The Orchard Business and Event Hub <br> 85 Cameron Street |    |
+ | ---- | ---- | ---- |
+ | City | Whangārei | 0110 |
+ | Country | New Zealand |    |
+ | Phone | (09) 430 0556 |    |
+ 
+
 ## Overview.
 ### Ownership Structure and Relationships
 
