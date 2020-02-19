@@ -117,20 +117,20 @@ Signed - Academic Director
 ## Body Corporate and Contact Details.
 
 
- Organisational Contact
+ | Organisational Contact |  |
+ | :---- | :---- |
  | Name | Mr George Norris |
- | ---- | ---- |
  | Position | Director and CEO |
  
- Key Academic Contact
+ | Key Academic Contact |    |
+ | :---- | :---- |
  | Name | Ms Ruth Green-Cole |
- | ---- | ---- |
  | Position | Director and Academic Director |
  | Email | ruth@developersinstitute.ac.nz |
  
- Campus Address 
+ | Campus Address |     |     |
+ | :---- | :---- | :---- |
  | Address | c/- The Orchard Business and Event Hub <br> 85 Cameron Street |    |
- | ---- | ---- | ---- |
  | City | Whangārei | 0110 |
  | Country | New Zealand |    |
  | Phone | (09) 430 0556 |    |
