@@ -130,7 +130,7 @@ Signed - Academic Director
  
  | Campus Address |     |     |
  | :---- | :---- | :---- |
- | Address | c/- The Orchard Business and Event Hub <br> 85 Cameron Street |    |
+ | Address | c/- 59 Bank Street |    |
  | City | Whangārei | 0110 |
  | Country | New Zealand |    |
  | Phone | (09) 430 0556 |    |
