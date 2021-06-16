@@ -602,6 +602,10 @@ The Quality Commissioner aims to resolve disputes individual students may have w
   3.  Taking legal action.
 These options are still available but now students have another alternative in the Quality Commission.
 
+### International students
+
+If you feel you have followed all complaint processes with Developers Institute internally and haven't reached a reasonable outcome, you can contact [istudents complaints](https://www.istudent.org.nz/). They are the appointed operator of the International Student Contract Dispute Resolution Scheme (DRS), which was set up to resolve financial and contractual disputes.
+
 ## Complaint Form.
 Where a student wishes to make an informal complaint about something affecting their study on any programme at Developers Institute, a digital submission can be made [here.](https://developersinstitute349232.typeform.com/to/lLiPNo) 
 
