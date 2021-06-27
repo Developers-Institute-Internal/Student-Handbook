@@ -1020,8 +1020,24 @@ All applicants must have a level of English sufficient to be able to study at th
 
 For information please refer to the [Code of Practice.](https://www.nzqa.govt.nz/providers-partners/education-code-of-practice/) Should you need any guidance, please contact learner support.
 
-### Rights and Obligations as a NZ tenant
+### Wellbeing and Learner Diversity
 
-For any inforamtion please head to the Tenancy Services site [here.](tenancy.govt.nz/starting-a-tenancy/new-to-tenancy/key-rights-and-responsibilities/)
+If you would like guidance around what cultural support is on offer in your area or advice for wellbeing, please speak to the Learner Support Manager. We can help you access tips, tricks and tools around how to keep your wellbeing balanced while you study with us.
 
-If you would like information around living in NZ or cultural support please contact the Learner Support.
+### Important links for more information
+
+Your Rights and Obigations as a New Zealand Tenant
+
+- For any inforamtion please head to the Tenancy Services site [here.](tenancy.govt.nz/starting-a-tenancy/new-to-tenancy/key-rights-and-responsibilities/)
+
+How NZQA qualifications are recognised overseas
+
+- Click [here](https://www.nzqa.govt.nz/about-us/our-role/our-role-in-international-education/) to visit the NZQA website.
+
+Information about minimum wage and labour conditions
+
+- See more information [here.](https://www.employment.govt.nz/hours-and-wages/pay/minimum-wage/minimum-wage-rates/)
+
+Working and Visa Conditions
+
+- For information around the maximum hours of work permitted under visa conditions or your rights and obligations you can find helpful information from the [Immigration Website](https://www.immigration.govt.nz/) or [New Zealand Shores](https://www.newzealandshores.com/)
