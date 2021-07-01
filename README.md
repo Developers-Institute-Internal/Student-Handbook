@@ -1018,11 +1018,20 @@ All applicants must have a level of English sufficient to be able to study at th
 
 ### Pastoral Care of International Students Code
 
-For information please refer to the [Code of Practice.](https://www.nzqa.govt.nz/providers-partners/education-code-of-practice/) Should you need any guidance, please contact learner support.
+Developers Institute provides support and information in accoradnce with the Ministy of Education's Code of Practice for the pastoral care of international students.
+
+For more information please refer to the [Code of Practice.](https://www.nzqa.govt.nz/providers-partners/education-code-of-practice/) Should you need any guidance, please contact learner support.
 
 ### Wellbeing and Learner Diversity
 
-If you would like guidance around what cultural support is on offer in your area or advice for wellbeing, please speak to the Learner Support Manager. We can help you access tips, tricks and tools around how to keep your wellbeing balanced while you study with us.
+If you would like to find cultural support in your local community, there are links below to different directories that can help you find local support groups.
+- https://www.heartsandminds.org.nz/directory-of-support-services/itemlist/category/80-ethnic-organisations-and-media 
+- https://www.ethniccommunities.govt.nz/community-directory/?Sort=Name&Dir=DESC 
+- http://www.deltatrust.org.nz/community-services/cultural-support/ 
+
+There is also documentation available 
+If you need further advice or guidance, please contact the learner support manager.
+
 
 ### Important links for more information
 
